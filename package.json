@@ -7,6 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@antv/g6": "^3.6.0",
+    "@antv/graphin": "^1.4.4",
+    "@zeit/next-css": "^1.0.1",
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
